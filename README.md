@@ -1,5 +1,6 @@
 # automute-lol
 Auto mute your enemies/teammates in match.
+### -> [Download here](https://github.com/vertyks/automute-lol/releases/tag/1.0) <-
 
 ## To avoid some errors, make sure you have:
 * League of Legends (TM) on your main monitor
